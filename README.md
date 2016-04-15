@@ -33,10 +33,16 @@ Check here on how to use the blocks - http://www.dwengo.org/ArduBlock
 2. Unzip the repository
 
 3. Using command line navigate to `Ardublock-for-Dwenguino-master\openblocks-master` 
-and type command `mvn clean install`
+and type command 
+```
+mvn clean install
+```
 
 4. Then navigate to `Ardublock-for-Dwenguino-master\ardublock-master` 
-and type command `mvn clean install`
+and type command 
+```
+mvn clean install
+```
 
 5. Then go to `Ardublock-for-Dwenguino-master\ardublock-master\target\` 
 and copy `ardublock-all.jar`
