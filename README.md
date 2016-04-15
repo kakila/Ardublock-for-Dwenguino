@@ -39,8 +39,9 @@ mvn clean install
 ```
 
 4. Then navigate to `Ardublock-for-Dwenguino-master\ardublock-master` 
-and type command 
+and type commands 
 ```
+mvn validate
 mvn clean install
 ```
 
